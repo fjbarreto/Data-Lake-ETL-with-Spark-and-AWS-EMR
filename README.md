@@ -42,6 +42,4 @@ In this project I used the following configurations when creating the EMR cluste
 
 • Number of instance: 3
 
-• EC2 key pair: Proceed without an EC2 key pair or feel free to use one if you'd like
-
 After creating this cluster you need to create a new notebook attached to the EMR cluster. In that notebook we execute PySpark code in **etl.py**
